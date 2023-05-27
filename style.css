@@ -44,7 +44,7 @@
 .homepage >h1{
     text-align: center;
 }
-.homepage >p{
+.homepage > p{
     padding: 30px 30px;
 }
 #footer{
